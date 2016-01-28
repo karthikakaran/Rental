@@ -6,7 +6,7 @@ Modules:
 3. Rent cycles by uploading the cycle image and details
 4. Checkout
 
-Technologies Used:
+Technologies Used: LAMP - Linux, Apache Tomcat, MySQL and PHP 
 PHP
 MySQL
 HTML5
